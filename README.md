@@ -1,1 +1,1 @@
-# b2-laboratorio2.1
+# bd2-laboratorio2.1
